@@ -42,21 +42,45 @@ The Bread Billing System is a web application designed to simplify and streamlin
 
 ## Thank you for using the Bread Billing System!
 
+# Admin UI
+
+## Hire New Cashier
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/HireNewCashier.png"> <br />
+
+## Cashier Profile View
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/CashierProfile.png"> <br />
+
+## Add New Bread
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/AddNewBread.png"> <br />
+
+## Bread View
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/BreadView.png"> <br />
+
+## Bills List
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/Bills.png"> <br />
+
+## Bill View
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/BillView.png"> <br />
+
+# Cashier UI
+
+## Panel
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/CashierPanel.png"> <br />
+
+## Bill Preview
+
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/BillGeneration.png"> <br />
+
 # Themes
 
-## White 
-<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/WhiteTheme.png"> <br />
-## Black 
-<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/BlackTheme.png"> <br />
-## Red 
-<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/RedTheme.png"> <br />
-## Green 
-<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/GreenTheme.png"> <br />
-## Blue 
-<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/BlueTheme.png"> <br />
-## Yellow 
-<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/YellowTheme.png">
-
+<img src="https://github.com/sanket-164/BreadBilling_MERN/blob/master/client/src/Images/Themes.png"> <br />
 
 
 
