@@ -30,7 +30,7 @@ The Bread Billing System is a web application designed to simplify and streamlin
 
 ## Setup and Installation
 
-1. Clone the repository from https://github.com/sanket-164/BreadBilling_MERN.git.
+1. Clone the repository from https://github.com/sanket-164/BillingSystem_MERN.git.
 2. Install the required dependencies by running npm install in the root directory.
 3. Configure the database connection by providing the appropriate credentials in the .env file.
 3. Run the application using npm start command.
